@@ -9,4 +9,4 @@ class CalcTests(SimpleTestCase):
     def test_add_numbers(self):
         res = calc.add(2, 4)
         self.assertEqual(res, 6)
-    
+        
